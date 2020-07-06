@@ -20,13 +20,13 @@ const IndexComponent = () => {
                     onPress={() => { }}
                     style={styles.actionButton}
                 >
-                    <Text>Receive</Text>
+                    <Text h4>Receive</Text>
                 </TouchableOpacity>
                 <TouchableOpacity
                     onPress={() => { }}
                     style={styles.actionButton}
                 >
-                    <Text>Send</Text>
+                    <Text h4>Send</Text>
                 </TouchableOpacity>
             </LinearGradient>
         </Fragment>
