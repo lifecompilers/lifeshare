@@ -17,6 +17,7 @@
     "react-native-navigation": "^6.8.0",
     "react-native-splash-screen": "^3.2.0",
     "react-native-vector-icons": "^7.0.0",
+    "react-native-webrtc": "^1.75.3",
     "react-native-wifi-p2p": "^2.0.2"
   },
   "devDependencies": {
